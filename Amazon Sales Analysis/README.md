@@ -1,4 +1,4 @@
-# Amazon Product Performance & Customer Engagement Analysis using Power BI
+# Amazon Sales Analysis using Power BI
 
 ## Project Overview
 
