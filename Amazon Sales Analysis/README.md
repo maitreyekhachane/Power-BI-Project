@@ -1,5 +1,7 @@
 # Amazon Sales Analysis using Power BI
+## Dashboard Preview
 
+![Executive Dashboard](Dashboard%20Images/Executive%20Dashboard.png)
 ## Project Overview
 
 This project analyzes Amazon product data to uncover insights related to product performance, customer engagement, pricing strategy, and discount effectiveness. The dashboard combines descriptive, diagnostic, and advanced analytics techniques to help businesses identify high-performing products, underperforming products, and opportunities for optimization.
